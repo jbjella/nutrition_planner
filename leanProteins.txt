@@ -1,0 +1,55 @@
+9
+chicken
+4oz
+196
+35.1
+0
+5.1
+beef, ground
+4oz
+171
+28.5
+0
+5.1
+beef, top sirloin
+4oz
+229
+34.4
+0
+9.1
+egg
+1
+75
+6.3
+.6
+5
+lobster
+4oz
+111
+23.2
+1.5
+.7
+protein powder
+2scoops
+180
+35
+4
+3.0
+salmon
+4oz
+206
+28.8
+0
+9.2
+shrimp
+4oz
+120
+23
+1
+2.0
+turkey breast
+4oz
+178
+33.9
+0
+3.7

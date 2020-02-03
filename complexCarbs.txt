@@ -1,0 +1,85 @@
+14
+bagel, plain whole wheat
+1
+150
+6
+33
+1
+beans, kidney
+.33 cup cooked
+75
+5.1
+13.5
+.3
+bread, whole wheat
+1 slice
+80
+2.5
+14
+1
+bread, rye
+1 slice
+80
+3
+16
+1
+potato, white
+1 large (8 oz)
+210
+4.4
+49
+.2
+potato, sweet
+4 oz
+136
+2.1
+31.6
+.4
+oatmeal, old-fashioned
+.33 cup uncooked
+100
+5
+16
+2
+lentils
+.5 cup
+115
+9
+20
+0
+pita, whole wheat
+1
+170
+6
+35
+2
+pasta, whole grain
+1 oz (dry)
+95
+4
+20
+.7
+pasta, whole wheat
+1 oz (dry)
+105
+4.5
+20
+1
+rice, wild
+1 cup cooked
+166
+6.5
+35
+.6
+Kashi cereal
+.75 cup
+120
+8
+28
+1
+shredded wheat
+1 cup
+144
+3.6
+33.4
+1.4

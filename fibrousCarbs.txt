@@ -1,0 +1,115 @@
+19
+asparagus
+10 spears
+40
+4
+6
+0
+broccoli
+1 cup
+46
+4.6
+8.6
+.4
+brussell sprouts
+1 cup
+60
+4
+11.6
+.4
+cauliflower
+1 cup
+60
+4.8
+13.6
+.8
+carrots
+1
+31
+.8
+7.3
+.1
+collard greens
+2 cups
+36
+1.6
+8
+.4
+corn
+.5 cup
+89
+2.7
+20.6
+1.1
+cucumber
+1 cup
+16
+.6
+3
+.2
+green pepper
+1 cup
+24
+0
+6
+0
+green beans
+6 oz
+50
+2
+12
+0
+kale
+2 cups
+56
+4
+11.6
+.8
+lettuce
+2 cups
+20
+0
+6
+0
+onion
+1 cup
+54
+2
+12
+0
+mushrooms
+1 cup cooked
+42
+3.4
+8
+.8
+peas
+.5 cup
+57
+4
+10
+0
+salsa
+4 tbsp
+16
+0
+4
+0
+spinach
+1 cup cooked
+42
+5.4
+6.6
+04
+tomato
+1 medium
+24
+1
+5
+0
+zucchini
+1 cup
+16
+1.4
+3.2
+.2

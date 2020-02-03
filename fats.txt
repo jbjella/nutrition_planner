@@ -1,0 +1,79 @@
+13
+avocado
+1 medium
+115
+3
+9
+15
+almonds
+1 oz
+170
+6
+5
+15
+cashews
+.5 cup
+394
+10.5
+22.4
+31.7
+canola oil
+1 tbsp
+120
+0
+0
+14
+flaxseed oil
+1 tbsp
+130
+0
+0
+14
+flaxseeds, ground
+1 oz
+151
+5
+8
+12
+peanuts
+.5 cup
+428
+17.3
+15.7
+36.3
+peanut butter, natural
+1 tbsp
+100
+3.5
+3.5
+8
+olive oil
+1 tbps
+120
+0
+0
+13.6
+salad dressing, Italian
+1 tbsp
+82
+0
+2
+9
+salad dressing, oil/vin
+1 tbsp
+75
+0
+.5
+8
+salad dressing, lt Italian
+3 tbsp
+12
+0
+3
+0
+walnuts
+1 oz
+200
+5
+3
+20
